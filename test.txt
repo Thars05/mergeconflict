@@ -1,1 +1,5 @@
+<<<<<<< branch2
 city:Nagercoil
+=======
+city: Bangalore
+>>>>>>> main
